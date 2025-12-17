@@ -25,4 +25,11 @@ The notebook concludes with a worked example of a long at-the-money index call:
 - Visualize payoff at expiry.
 - Inspect Delta vs underlying and price vs volatility.
 
-## 4.
+## 4. Repository Structure
+- plots/: delta and payoff plots
+- src/: main Jupyter notebook
+- .gitignore
+- README.md
+- requirements.txt
+
+
